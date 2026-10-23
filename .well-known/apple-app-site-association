@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["6ZY37TS422.com.divine.winequiz"],
+        "components": [
+          { "/": "/i/*", "comment": "invitation" },
+          { "/": "/d/*", "comment": "défi" },
+          { "/": "/v/*", "comment": "vin du jour" }
+        ]
+      }
+    ]
+  }
+}
